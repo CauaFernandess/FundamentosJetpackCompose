@@ -76,25 +76,25 @@ fun DifferentFont() {
         Spacer(modifier = Modifier.height(8.dp))
 
         Text(
-            text = "VASCO DA GAMA",
+            text = "Nao consegui alterar a fonte :(",
             fontFamily = fontFamilyEDU,
             fontWeight = FontWeight.Normal,
             maxLines = 1
         )
         Text(
-            text = "GIGANTE",
+            text = "Nao consegui alterar a fonte :(",
             fontFamily = fontFamilyEDU,
             fontWeight = FontWeight.Medium,
             maxLines = 1,
             overflow = TextOverflow.Visible
         )
         Text(
-            text = "DA",
+            text = "Nao consegui alterar a fonte :(",
             fontFamily = fontFamilyEDU,
             fontWeight = FontWeight.SemiBold
         )
         Text(
-            text = "COLINA",
+            text = "Nao consegui alterar a fonte :(",
             fontFamily = fontFamilyEDU,
             fontWeight = FontWeight.Bold
         )
